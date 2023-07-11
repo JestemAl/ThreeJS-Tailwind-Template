@@ -7,3 +7,6 @@ Ready-to-use project template that combines the popular CSS framework, Tailwind 
 npm install
 ### Start development server:
 npm run dev
+
+![image](https://github.com/JestemAl/ThreeJS-Tailwind-Template/assets/109527983/1a37ae70-f55d-4462-887e-8997815c976e)
+
